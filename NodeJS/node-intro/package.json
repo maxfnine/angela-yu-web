@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "superheroes": "^3.0.0",
     "supervillains": "^3.0.0"
   }
